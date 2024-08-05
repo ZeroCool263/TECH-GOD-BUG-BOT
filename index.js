@@ -1,10 +1,10 @@
-//base by Tech-God
+//base by ❦★𝘿𝘼𝙍𝙆★❦†𝙕𝙀𝙍𝙊𝘾𝙊𝙊𝙇†𓃵
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: @Jayden01
+//Instagram: ZeroCool263
+//Telegram: t.me/cybro263
+//GitHub: @ZeroCool263
+//WhatsApp: +263712473551
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const {
